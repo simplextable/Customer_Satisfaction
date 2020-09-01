@@ -1,0 +1,4 @@
+description: we will solve this problem.
+https://www.kaggle.com/c/santander-customer-satisfaction/overview/evaluation
+
+v001: first attempt to solve.

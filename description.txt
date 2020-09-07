@@ -1,4 +1,5 @@
 description: we will solve this problem.
 https://www.kaggle.com/c/santander-customer-satisfaction/overview/evaluation
 
-v001: first attempt to solve.
+v001: first attempt to solve.used lineer regression and xgboost. 
+v002: we want to print some plots of columns which is most correlated.
